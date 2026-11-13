@@ -2,13 +2,19 @@
 
 [← Back to portfolio](../README.md)
 
-<small>Private project · Source code is not publicly available</small>
+<small>Private backend project · Public website and WordPress plugin</small>
 
 ## Overview
 
 Baaraat is a platform designed to connect a Telegram-based workflow with WordPress websites, helping users initiate and manage content-publishing tasks through a conversational interface.
 
 The platform uses a central backend and a site-side WordPress agent to coordinate work between the Telegram experience and connected WordPress installations. The project includes workflows for product and article publishing, site pairing, job processing, and subscription-related operations.
+
+## Project Links
+
+- **Official website:** [baaraat.ir](https://baaraat.ir/)
+- **WordPress plugin:** [Baaraat Agent on WordPress.org](https://fa.wordpress.org/plugins/baaraat-agent/)
+- **Telegram bot:** [@baaraatBot](https://t.me/baaraatBot)
 
 ## My Role
 
@@ -79,4 +85,4 @@ Implemented backend components for subscription and payment-related operations, 
 
 ## Project Access
 
-Baaraat is a private project. Its repository and source code remain private; this case study describes selected capabilities and engineering work at a high level. No credentials, customer data, private endpoints, or internal deployment details are published here.
+The central backend repository and internal implementation remain private. The WordPress plugin is publicly available through the official WordPress.org plugin directory. This case study describes selected capabilities and engineering work without exposing credentials, customer data, or private deployment details.
