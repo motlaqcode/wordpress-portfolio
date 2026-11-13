@@ -2,7 +2,7 @@
 
 **Role:** Founder & WordPress Developer  
 **Period:** December 2019 – November 2022  
-**Website:** [motlaqagency.ir](https://motlaqagency.ir/) — historical agency website; restoration is in progress.
+**Website:** [motlaqagency.ir](https://motlaqagency.ir/)
 
 ## Overview
 
@@ -10,7 +10,7 @@ Motlaq was a digital marketing agency I founded and operated, providing website 
 
 My work covered both the technical delivery of websites and the broader online presence of client businesses. Depending on the project, this included website planning and implementation, WordPress setup and customization, e-commerce functionality, technical maintenance, SEO, social media page management, content publishing, and advertising support.
 
-The agency website is being restored from a backup. It is included here as the primary reference for the agency's historical portfolio; its current availability and archived content may change during restoration.
+The agency website presents the agency's services and historical portfolio, with additional project examples and background on its work.
 
 ## My Role
 
@@ -63,6 +63,6 @@ A broader Motlaq umbrella structure was also planned, with concepts such as Motl
 
 ## Notes on Evidence and Scope
 
-This case study summarizes my own account of the agency's work. The agency website at [motlaqagency.ir](https://motlaqagency.ir/) is the intended primary reference for additional historical project samples and is being restored from backup. The public portfolio will be expanded as those materials become available.
+This case study summarizes my own account of the agency's work. The agency website at [motlaqagency.ir](https://motlaqagency.ir/) serves as the primary reference for its services and historical project portfolio.
 
 Client source code, private business information, and unavailable historical assets are not included in this repository. I do not attribute current versions of client websites to my original work where they have since been redesigned.
