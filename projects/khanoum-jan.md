@@ -4,61 +4,88 @@
 
 ## Overview
 
-Khanoum Jan is a WooCommerce-based e-commerce store. My work has covered technical development and ongoing management of the store, with an emphasis on tailored functionality, integrations, maintainability, and website performance.
+Khanoum Jan is a WooCommerce-based e-commerce store. My work has covered technical development and ongoing management of the store, with an emphasis on tailored functionality, third-party integrations, maintainability, and website performance.
 
 **Website:** [khanoumjan.com](https://khanoumjan.com)
 
 ## My Role
 
-WordPress / WooCommerce developer and technical manager.
+**WordPress / WooCommerce Developer & Technical Manager**
 
-My responsibilities have included:
+I work across the store's backend and frontend implementation, including custom functionality, theme extensions, service integrations, troubleshooting, and performance improvements.
 
-- Developing and maintaining custom WordPress and WooCommerce functionality
-- Extending the theme through a child-theme approach to keep customizations separate from parent-theme updates
-- Customizing Elementor-based components and store interfaces
-- Integrating external services and payment solutions
-- Troubleshooting plugin, theme, and compatibility issues
-- Working on technical SEO and website performance
-
-## Technical Scope
+## Technology Stack
 
 - **Platform:** WordPress
 - **Commerce:** WooCommerce
 - **Page builder:** Elementor
-- **Languages:** PHP, JavaScript, HTML, CSS
-- **Integrations:** WordPress REST API and third-party services
-- **Infrastructure and optimization:** caching, asset optimization, and Core Web Vitals work
+- **Backend:** PHP
+- **Frontend:** JavaScript, HTML5, CSS3
+- **APIs:** WordPress REST API and third-party service APIs
+- **Infrastructure:** Linux-based hosting, caching, and performance tooling
 
 ## Selected Engineering Work
 
-### Custom store functionality
+### 1. Child-theme architecture and theme extensions
 
-Implemented and maintained store-specific features beyond the default WooCommerce experience, adapting product and shopping workflows to business requirements.
+Extended the Mehrnoosh theme through its child theme, keeping custom work separate from parent-theme files wherever practical.
 
-### Theme customization and maintainability
+- Added targeted Elementor widget overrides and custom widget implementations
+- Replaced selected parent-theme functionality without directly editing vendor files
+- Maintained compatibility with the existing theme structure
+- Focused on minimal, targeted code rather than broad theme modifications
 
-Used child-theme customizations and targeted overrides to reduce the risk of losing custom work during parent-theme updates. Kept performance and unnecessary dependencies in mind when extending the site.
+### 2. WooCommerce product-page customization
 
-### External service integrations
+Developed and refined product-page behavior to better fit the store's catalog and customer experience.
 
-Worked on integrations with payment and installment services, along with other external systems used by the store. This included troubleshooting integration behavior across the website and service side.
+- Customized product information sections and tab behavior
+- Implemented a collapsible product-description area with a controlled height and visual fade
+- Worked on sticky product tabs and their frontend behavior
+- Refined product information presentation while considering mobile usability
 
-### Performance and technical SEO
+### 3. Payment and external service integrations
 
-Investigated frontend performance bottlenecks and worked on improvements related to loading behavior, assets, and Core Web Vitals, with particular attention to mobile performance.
+Worked with multiple third-party services used by the store, including:
 
-## Engineering Priorities
+- SnappPay
+- DigiPay
+- TorobPay
 
-- Keep custom code separate from vendor/theme code where practical
-- Avoid unnecessary plugins, dependencies, and site-wide scripts
-- Prefer targeted changes over broad modifications
-- Consider maintainability and performance alongside feature delivery
+The work includes integration configuration, adapting the store-side experience, and investigating issues that occur between WooCommerce order states and external service records.
+
+### 4. WordPress REST API and product data
+
+Worked with WordPress REST API-based integrations and product data workflows, including a custom product-feed endpoint used for an external service.
+
+### 5. Performance and Core Web Vitals
+
+Investigated frontend performance, particularly on mobile devices, with attention to loading priority and unnecessary frontend work.
+
+- Reviewed LCP and FCP bottlenecks
+- Investigated header assets, banners, fonts, and render-blocking resources
+- Removed or disabled non-essential frontend behavior where it affected loading
+- Worked with caching and asset-optimization settings
+- Prioritized lightweight implementations and limited site-wide script execution
+
+### 6. Elementor and store-interface development
+
+Customized Elementor-based components and store interfaces, including work on header components and story-style content presentation. Implementation choices consider layout stability, mobile performance, and the existing theme design.
+
+## Engineering Approach
+
+My priorities when extending a live WooCommerce store are:
+
+- Keep customizations update-safe and isolated from parent-theme code
+- Avoid unnecessary dependencies and duplicated asset loading
+- Limit scripts and styles to the pages or components that need them
+- Diagnose the actual source of a problem before adding another plugin or workaround
+- Balance user experience, maintainability, and performance
 
 ## Evidence and Media
 
-Screenshots, architecture diagrams, and specific implementation examples can be added here after reviewing them for customer data, credentials, order information, and other sensitive details.
+Screenshots, diagrams, and implementation examples can be added after reviewing them for customer data, order details, credentials, and other sensitive information.
 
 ## Project Access
 
-This is a commercial website. The store is publicly accessible, but private source code, credentials, customer information, and internal operational details are not published in this portfolio.
+This is a commercial website. The public storefront is available at [khanoumjan.com](https://khanoumjan.com). Private source code, credentials, customer information, and internal operational details are not published in this portfolio.
