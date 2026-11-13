@@ -12,6 +12,7 @@ This portfolio documents the problems I worked on, my technical responsibilities
 | **Baaraat** | WordPress publishing and support automation platform with a Telegram workflow | [View case study](projects/baaraat-platform.md) |
 | **ANN AI WordPress Theme** | End-to-end Persian localization, including 40,000+ lines of theme and plugin translations, demo localization, and CSS refinement | [View case study](projects/ann-ai-wordpress-theme.md) |
 | **Independent Digital Products** | Three earlier public products: a music streaming platform, a PHP-based movie and series platform with an Android app, and a link-management service | [View case study](projects/independent-digital-products.md) |
+| **Motlaq Digital Marketing Agency** | Agency founded and operated from 2019 to 2022, delivering websites and digital marketing services for clients across multiple industries | [View case study](projects/motlaq-digital-agency.md) · [Agency website](https://motlaqagency.ir/) |
 
 ## Core Areas
 
